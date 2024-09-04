@@ -1,31 +1,27 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Diana Theressa Reis",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/dianathreis.png",
+    "email": "dtreis@hawaii.edu",
+    "phone": "808-763-7810",
+    "website": "https://dianathreis.github.io",
+    "summary": "I am a fourth-year student at UH Mānoa going for my B.S. in Computer Science. I expect to graduate in Spring 2026.",
+    "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "dianathreis", "url": "http://github.com/dianathreis" },
+      { "network": "linkedin", "username": "dianatheressa", "url": "http://linkedin.com/in/dianatheressa" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "UI/UX Design" },
+    { "name": "Web Design" },
+    { "name": "Data Analytics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Javascript", "CSS & HTML" ]
     },
     {
       "name": "Toolsets/OS",
