@@ -22,46 +22,46 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "Java", "Javascript", "CSS & HTML" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-23",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "ICS 111", "ICS 211", "ICS 311", "ICS 314"
       ]
+    } ,
+    {
+      "institution" : "University of Hawaii- West O'ahu, Kapolei, HI",
+      "area": "Cybersecurity",
+      "startDate": "2021-08-20",
+      "endDate" : "2023-05-20"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "World Wide Technology",
+      "position": "SLED Systems Engineer Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-05-20",
+      "endDate": "2024-07-31",
+      "summary": "Interned for the Summer with World Wide Technology.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Participate in customer-facing calls, assist with technology configurations, study for entry-level IT certifications, participate in hands-on networking labs."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH Manoa Career Center",
+      "position": "Employment Services Assistant",
+      "website": "",
+      "startDate": "2023-08-20",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide excellent customer service while performing clerical tasks, completing Federal I-9 forms, employment verifications, and similar HR functions in compliance with federal regulations."
       ]
     }
   ],
