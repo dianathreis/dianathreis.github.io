@@ -19,8 +19,7 @@ There are so many areas of software engineering that I’d like to dip my toes i
 
 
 <p align="center">
-  <img width="450" height="338" src="![image](https://github.com/user-attachments/assets/d2e2e329-413e-4928-bb1b-e9f403ae0afc)
-">
+  <img width="450" height="338" src="img/204977889-frontend-development-languages-software-engineering-it-technologies-working-on-website-or.jpg">
 </p>
 
 
