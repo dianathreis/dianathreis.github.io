@@ -18,7 +18,7 @@ I have a lot of interest in front-end engineering and specialization in UI and w
 There are so many areas of software engineering that I’d like to dip my toes into. My curiosity for technology has pushed me to keep exploring different areas of the field, from front-end development to cloud computing. As I continue through my degree and gain more hands-on experience, I am excited to use my growing skills to complete complex problems and contribute to meaningful projects. 
 
 <p align="center">
-  <img width="450" height="338" src="https://github.com/user-attachments/assets/63f3e3ec-c618-425c-a44e-628512c7aea2](https://github.com/user-attachments/assets/c85f587e-e114-4153-806a-11f27dcd5dc8">
+  <img width="450" height="338" src="https://github.com/user-attachments/assets/c85f587e-e114-4153-806a-11f27dcd5dc8">
 </p>
 
 
