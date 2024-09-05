@@ -15,9 +15,11 @@
   },
   "interests": [
     { "name": "UI/UX Design" },
+    { "name": "Digital Forensics" },
     { "name": "Cybersecurity" },
     { "name": "Web Design" },
-    { "name": "Data Analytics" }
+    { "name": "Data Analytics" },
+    { "name": "Cultural and Digital Anthropology"}
   ],
   "skills": [
     {
