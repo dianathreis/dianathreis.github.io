@@ -13,7 +13,9 @@ labels:
 As someone who wouldn’t exactly label myself as a coding pro, I would say that I find TypeScript to be a fun language to learn and work with. I learned JavaScript over the summer and still maintain a lot of knowledge from working with Java in previous courses so the learning curve wasn’t very steep at all. I appreciate that TypeScript has features like static typing, which automatically catches errors when compiling the code. The fact that it can also assign variable types without a user needing to explicitly state so is also very convenient, it almost feels like it’s less work! It’s because of this that I do think TypeScript is a good language to use from a software engineering perspective- it’s a reliable language that can help with catching any potential bugs or errors in code.
 
 
-![DELETE L8R](https://github.com/user-attachments/assets/63f3e3ec-c618-425c-a44e-628512c7aea2)
+<p align="center">
+  <img width="612" height="334" src="https://github.com/user-attachments/assets/63f3e3ec-c618-425c-a44e-628512c7aea2">
+</p>
 
 
 
