@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/CAPSTONE.png
 title: "Learn the World Wide Way"
 date: 2024-07-20
 published: true
