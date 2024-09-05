@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Fascinations to Aspirations?"
+title: "Fascinations to Aspirations"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
@@ -19,8 +19,7 @@ There are so many areas of software engineering that I’d like to dip my toes i
 
 
 <p align="center">
-  <img width="1920" height="1920" src="![image](https://github.com/user-attachments/assets/850012f8-0aed-44a8-acb7-7f63cfa1893b)
-">
+  <img width="1920" height="1920" src="![image](https://github.com/user-attachments/assets/850012f8-0aed-44a8-acb7-7f63cfa1893b)">
 </p>
 
 
