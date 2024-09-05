@@ -6,7 +6,7 @@
     "email": "dtreis@hawaii.edu",
     "phone": "808-763-7810",
     "website": "https://dianathreis.github.io",
-    "summary": "I am a fourth-year student at UH Mānoa going for my B.S. in Computer Science. I expect to graduate in Spring 2026.",
+    "summary": "I am a fourth-year student at UH Mānoa going for my B.S. in Computer Science. I expect to graduate in Spring 2026. I hope to work within the Cybersecurity area, but I also dream of being a web designer and being able to combine my creativity and love of STEM.",
     "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "dianathreis", "url": "http://github.com/dianathreis" },
@@ -15,6 +15,7 @@
   },
   "interests": [
     { "name": "UI/UX Design" },
+    { "name": "Cybersecurity" },
     { "name": "Web Design" },
     { "name": "Data Analytics" }
   ],
@@ -42,6 +43,17 @@
     }
   ],
   "work": [
+       {
+      "company": "UH Manoa Career Center",
+      "position": "Employment Services Assistant",
+      "website": "",
+      "startDate": "2023-08-20",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Provide excellent customer service while performing clerical tasks, completing Federal I-9 forms, employment verifications, and similar HR functions in compliance with federal regulations."
+      ]
+    },
     {
       "company": "World Wide Technology",
       "position": "SLED Systems Engineer Intern",
@@ -52,63 +64,5 @@
       "highlights": [
         "Participate in customer-facing calls, assist with technology configurations, study for entry-level IT certifications, participate in hands-on networking labs."
       ]
-    },
-    {
-      "company": "UH Manoa Career Center",
-      "position": "Employment Services Assistant",
-      "website": "",
-      "startDate": "2023-08-20",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Provide excellent customer service while performing clerical tasks, completing Federal I-9 forms, employment verifications, and similar HR functions in compliance with federal regulations."
-      ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
