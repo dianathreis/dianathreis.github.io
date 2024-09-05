@@ -38,6 +38,7 @@
     {
       "institution" : "University of Hawaii- West O'ahu, Kapolei, HI",
       "area": "Cybersecurity",
+      "studyType": "B.S",
       "startDate": "2021-08-20",
       "endDate" : "2023-05-20"
     }
@@ -66,7 +67,8 @@
       ]
     }
   ],
-  "References": [
-    "name": "Available upon request."
+  "References": [ 
+    {
+    "name": "Available upon request." }
   ]
 }
