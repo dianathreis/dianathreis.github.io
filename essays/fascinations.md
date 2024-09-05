@@ -19,7 +19,8 @@ There are so many areas of software engineering that I’d like to dip my toes i
 
 
 <p align="center">
-  <img width="903" height="500" src="">
+  <img width="1920" height="1920" src="![image](https://github.com/user-attachments/assets/850012f8-0aed-44a8-acb7-7f63cfa1893b)
+">
 </p>
 
 
