@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CAPSTONE.png
+image: img/digital_anthropology_1_0.jpg
 title: "The Commodity of Beauty"
 date: 2023-12-06
 published: true
