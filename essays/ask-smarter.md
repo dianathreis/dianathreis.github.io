@@ -31,7 +31,7 @@ The transaction of asking and answering questions can be represented by “Play 
 User djred678 is asking a question that can easily be answered with a simple Google search, not to mention that it has already been asked in the forum previously. “I can't seem to find any explanation for this” is a lazy way to explain why you need help- the question was asked in 2017! I imagine that anyone who saw this new question come up on their feed were annoyed, and many actually were, because the comments clearly state that the question was very low-effort and lazy. An individual who did answer did argue that they were simply just helping someone who had a question and that being abrasive wouldn’t be helpful. I think it’s safe to assume that asking these questions creates a very hostile environment that doesn’t help anyone.
 
 <p align="center">
-  <img width="1474" height="1192" src="https://github.com/user-attachments/assets/ff05be83-c884-4434-a864-d39dc32e1d71" >
+  <img width="500" height="404" src="https://github.com/user-attachments/assets/ff05be83-c884-4434-a864-d39dc32e1d71" >
 </p>
 
 // Smart Questions: The Secret Sauce to a Great Learning Environment
