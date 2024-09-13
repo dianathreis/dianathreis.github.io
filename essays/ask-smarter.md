@@ -24,7 +24,8 @@ In the context of coding, asking meaningful, well thought-out questions is essen
 The transaction of asking and answering questions can be represented by “Play stupid games, win stupid prizes.” I found that asking questions in a lazy, low-effort often received answers of the same quality. An example of this can be seen [here](https://stackoverflow.com/questions/44193380/what-does-operator-do). 
 
 <p align="center">
-  (img/smart-questions/dumb-question.jpg)
+  ![image](https://github.com/user-attachments/assets/91376ad1-6c7f-4935-817f-237f4bf5b075
+)
 </p> 
 
 User djred678 is asking a question that can easily be answered with a simple Google search, not to mention that it has already been asked in the forum previously. “I can't seem to find any explanation for this” is a lazy way to explain why you need help- the question was asked in 2017! I imagine that anyone who saw this new question come up on their feed were annoyed, and many actually were, because the comments clearly state that the question was very low-effort and lazy. An individual who did answer did argue that they were simply just helping someone who had a question and that being abrasive wouldn’t be helpful. I think it’s safe to assume that asking these questions creates a very hostile environment that doesn’t help anyone.
