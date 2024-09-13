@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Don't Be That Person: Ask Smarter, Not Harder"
+title: "Don't Be _That_ Person: Ask Smarter, Not Harder"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-12
 published: true
@@ -15,11 +15,11 @@ Everyone has come across some variation of this problem- you’re completing som
 
 I think that sites like Reddit or Stack Overflow are Godsend- not only can you find answers to common questions, but also answers to the most niche questions possible, like “What happens to the cord on animals where there's no one to cut it?” or “Is there a repository of house CAD files that can be used for energy simulations?”. Although these forums are great, highly accessible resources to find help, not all questions lead to helpful answers, and results can be reliant on the quality of the question asked. 
 
-// Smart Questions = Better Answers
+## Smart Questions = Better Answers
 
 In the context of coding, asking meaningful, well thought-out questions is essential both for questioners and answers of the present and future. Asking Smart questions usually resulted in equally helpful answers, and typically had a lot of upvotes. This is essential to getting your question answered, as well as respecting a hacker’s time and effort by helping you. It is also extremely helpful for someone who has the same question as you later in time. I find that this would increase efficiency and save both your own time and the time of other users. It also makes for a better learning experience as there would be better feedback and a better attitude of users answering your questions, which cultivates a supportive and engaging community atmosphere. A comfortable learning environment is essential to learning- would you ever feel like you’re performing your best when in a classroom with an instructor that gives terrible feedback and berates you?
 
-// Lazy Questions, Lazy Results
+## Lazy Questions, Lazy Results
 
 The transaction of asking and answering questions can be represented by “Play stupid games, win stupid prizes.” I found that asking questions in a lazy, low-effort often received answers of the same quality. An example of this can be seen [here](https://stackoverflow.com/questions/44193380/what-does-operator-do). 
 
@@ -34,7 +34,7 @@ User djred678 is asking a question that can easily be answered with a simple Goo
   <img width="500" height="404" src="https://github.com/user-attachments/assets/ff05be83-c884-4434-a864-d39dc32e1d71" >
 </p>
 
-// Smart Questions: The Secret Sauce to a Great Learning Environment
+## Smart Questions: The Secret Sauce to a Great Learning Environment
 
 On the contrary, smart questions are great to help others and create an inclusive and efficient learning environment. In my smart question example [here](https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call), you can see that there’s a lot of helpful discussions going on in the comments that support learning and understanding of the issue at hand. The asker also included how they went about coding it and gave enough information. In addition, the many upvotes/popularity of the post will definitely help someone who might have the same question in the future.
 
