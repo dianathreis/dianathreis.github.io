@@ -11,6 +11,10 @@ labels:
   - Wi-Fi
 summary: "I created a network plan for a fictional company that would be housed in a building assigned by my ICS 184 instructor."
 ---
+<p align="center">
+  <img width="1502" height="1048" src="https://github.com/user-attachments/assets/30f6b830-527b-4d27-b8ed-befba1d0b8de
+">
+</p>
 
 In my ICS 184 course, our instructor gave us the oppurtunity to make up a fictional company and create a network plan for them based on a building layout provided by our instructor. I decided to create a small Entertainment Engineering company with about 100-200 employees that would be working in this building. I had to create a plan that would be appopriate based on the layout of the building and possible obstructions that we could face.
 
