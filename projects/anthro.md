@@ -10,6 +10,9 @@ labels:
   - Digital and Cultural Anthropology
 summary: "'The Commodity of Beauty' is a 12-page ethnography that I conducted fieldwork and wrote for my ANTH 428: Anthropology of the Body course in Fall 2023. I studied the cultural and digital aspects of beauty and how history and contemporary influences like social media have impacted the Filipino community and their views of beauty through skin tone."
 ---
+<p align="center">
+  <img width="400" height="400" src="https://github.com/user-attachments/assets/ad672f2e-0019-42e3-8702-63e14f4c84aa">
+</p>
 
 During the Fall semester of 2023, I had the oppurtunity to conduct fieldwork and write an ethnography for my ANTH 428 course. Based on the previous coursework that we went through before we reached this assignment, I knew that I wanted to write about a community that I'm a part of and issues relating to the body that I've seen firsthand. 
 
