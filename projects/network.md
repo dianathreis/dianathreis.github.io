@@ -12,7 +12,7 @@ labels:
 summary: "I created a network plan for a fictional company that would be housed in a building assigned by my ICS 184 instructor."
 ---
 <p align="center">
-  <img width="1502" height="1048" src="https://github.com/user-attachments/assets/30f6b830-527b-4d27-b8ed-befba1d0b8de
+  <img width="400" height="400" src="https://github.com/user-attachments/assets/30f6b830-527b-4d27-b8ed-befba1d0b8de
 ">
 </p>
 
