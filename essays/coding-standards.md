@@ -9,6 +9,10 @@ labels:
   - Coding Standards
   - ESLint
 ---
+<p align="center">
+  <img width="540" height="360" src="https://github.com/user-attachments/assets/356b1ec1-32e5-4dce-8725-23c5ed185300">
+</p>
+
 ## First Impressions
 During this first week of coding with ESLint, I initially found that it was a bit tedious because it kind of felt like I had someone in my ear telling me I was doing something wrong constantly. Having an error thrown at me immediately after finishing a new line of code just because I missed a space or I didn’t create a new line under the last line of my code frustrated me a bit because they were errors that I never really had to deal with before. 
 
