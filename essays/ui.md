@@ -8,8 +8,7 @@ published: true
 labels:
   - UI Frameworks
   - Bootstrap 5
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.bundle.min.js"></script>
+
 ---
 <p align="center">
   <img width="540" height="360" src="https://github.com/user-attachments/assets/ae79fe86-20a4-4835-a6ec-0bbde4c112fc">
@@ -27,6 +26,9 @@ labels:
 <p>Bootstrap also seems super helpful when in a software engineering environment because of its standardized components, which makes everything fit together visually. This is something useful for people working in a team on projects because it would be less likely that people would make mistakes relating to not matching up with everyone else’s standards. Again, also very convenient that the same CSS code doesn’t have to be written repetitively.
 </p>
 
-<p>	I think that while recreating the Baggu site for a recent assignment, utilizing Bootstrap made it a lot easier to recreate an almost identical clone to the site. Of course, not everything worked the same and it was mostly static minus the implementation of a side menu bar, but aesthetically, it was there! I would have been pulling my hair out if I only decided to use raw HTML and CSS, and I’m very thankful for UI frameworks because of this.
+<p>I think that while recreating the Baggu site for a recent assignment, utilizing Bootstrap made it a lot easier to recreate an almost identical clone to the site. Of course, not everything worked the same and it was mostly static minus the implementation of a side menu bar, but aesthetically, it was there! I would have been pulling my hair out if I only decided to use raw HTML and CSS, and I’m very thankful for UI frameworks because of this.
 </p>	
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.bundle.min.js"></script>
 	
