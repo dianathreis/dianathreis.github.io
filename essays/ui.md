@@ -8,11 +8,12 @@ published: true
 labels:
   - UI Frameworks
   - Bootstrap 5
----
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.bundle.min.js"></script>
+---
 <p align="center">
-  <img width="540" height="360" src="https://github.com/user-attachments/assets/356b1ec1-32e5-4dce-8725-23c5ed185300](https://darekkay.com/blog/accessible-ui-frameworks/hero-image.webp">
+  <img width="540" height="360" src="https://github.com/user-attachments/assets/ae79fe86-20a4-4835-a6ec-0bbde4c112fc">
+
 </p>
 
 <h1>Introduction to Bootstrap</h1>
