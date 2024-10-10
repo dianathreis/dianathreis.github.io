@@ -28,7 +28,4 @@ labels:
 
 <p>I think that while recreating the Baggu site for a recent assignment, utilizing Bootstrap made it a lot easier to recreate an almost identical clone to the site. Of course, not everything worked the same and it was mostly static minus the implementation of a side menu bar, but aesthetically, it was there! I would have been pulling my hair out if I only decided to use raw HTML and CSS, and I’m very thankful for UI frameworks because of this.
 </p>	
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.bundle.min.js"></script>
 	
