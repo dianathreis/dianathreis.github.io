@@ -13,6 +13,10 @@ labels:
   - Claude
 ---
 ## I. Introduction
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s">
+</p>
+
 In the past few years, AI, especially generative AI, has become a huge topic within education and the technology industry. Students, educational institutions, and educators have begun to use generative AI to complete tasks for convenience and efficiency. In the context of software engineering, programmers have used AI to assist them with code and troubleshooting, as well as learn new concepts. This semester, in ICS 314 and in other classes or my everyday life, I’ve used ChatGPT, Copilot, and Claude to assist me with code, assignments, and miscellaneous tasks like meal planning. 
 ## II. Personal Experience with AI:
 1. **Experience WODs e.g. E18**
