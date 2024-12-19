@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Don't Be *That* Person: Ask Smarter, Not Harder"
+title: "Reflections on Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-12
+date: 2024-12-18
 published: true
 labels:
   - Software Engineering
